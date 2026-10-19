@@ -1,0 +1,6 @@
+CORE D:\CAD2022\AutoCAD 2022\accoreconsole.exe
+读取 1/1：L-P-CL-001目录_t9.dwg
+System.InvalidOperationException: 目录基准读取失败，已停止本轮扫描，未生成成功结果：AutoCAD用户配置初始化失败；退出码=1不能单独代表扫描成功。日志：C:\Users\UL070\Documents\Codex\2026-10-08\wo\work\cad100-directory-write-20261019\qa\native\runs\20261019_155214_6cd32024\001\console.txt
+日志目录：C:\Users\UL070\Documents\Codex\2026-10-08\wo\work\cad100-directory-write-20261019\qa\native\runs\20261019_155214_6cd32024
+   在 Cad100.DirectoryChecking.DwgDirectoryScanner.Scan(String folder, String baseline, String core, String script, String runs, Action`1 progress, String[] optionalFields)
+   在 NativeSmoke.Main(String[] args)

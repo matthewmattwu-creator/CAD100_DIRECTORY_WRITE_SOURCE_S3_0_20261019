@@ -1,0 +1,27 @@
+PASS personnel uses plain summary
+PASS personnel identifies readable roles
+PASS personnel technical tags hidden from plain explanation
+PASS wrong name is not described as invisible
+PASS small scale classified without changing acceptance
+PASS precise values reserved for diagnostics
+PASS large scale is not called tiny
+PASS multiple causes retained
+PASS field mismatch does not assert a proven formatting cause
+PASS unknown failure is not given an invented cause
+PASS advice present; no automatic approval
+PASS advice present; no automatic approval
+PASS advice present; no automatic approval
+PASS advice present; no automatic approval
+PASS detail layout has independent explanation, diagnostics and actions
+PASS diagnostics collapsed by default
+PASS complete raw diagnostic retained
+PASS primary detail text is readable
+PASS copy explanation, copy diagnostic and close available
+PASS detail layout has independent explanation, diagnostics and actions
+PASS diagnostics collapsed by default
+PASS complete raw diagnostic retained
+PASS primary detail text is readable
+PASS copy explanation, copy diagnostic and close available
+PASS all four failures stay red
+PASS table summary changed; raw diagnostic preserved
+ALL PLAIN FAILURE CHECKS PASSED; no CAD processing, drawing writes or clipboard changes.

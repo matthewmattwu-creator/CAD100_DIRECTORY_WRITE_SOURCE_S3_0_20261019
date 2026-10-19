@@ -1,0 +1,122 @@
+PASS 未确认时没有可写文件
+PASS 明确项目只在人工批量确认后纳入
+PASS 五个明确文件通过预检，冲突文件保留
+PASS 每个可写文件都有确定属性句柄
+PASS 人工绑定并确认后六个文件可写
+PASS 保留原内嵌字宽和字高格式，不叠加格式
+PASS 新文字按字面转义富文本控制字符
+PASS 不扁平化复杂原格式：一\P二
+PASS 不扁平化复杂原格式：{\W0.8;旧字}
+PASS 不扁平化复杂原格式：旧\H2;字
+PASS 不扁平化复杂原格式：%<field>%
+PASS 不扁平化复杂原格式：\FArial;旧字
+PASS 长文字超过试验边界时拒绝
+PASS 补充平面字符不静默损坏
+PASS Unicode载荷是纯ASCII表达式
+PASS 属性丢失时整个文件跳过
+PASS 原图签块丢失时禁止重建
+PASS 属性归属变化被拦截
+PASS 原始文字变化被拦截
+PASS 源版本快照不一致被拦截
+PASS 属性不可写时不新增替代文字
+PASS 同DWG有另一未确认冲突时整体跳过
+PASS 清单顺序变化不误报
+PASS 精确变换或几何变化拦截：A	INSERT scale=150
+PASS 精确变换或几何变化拦截：B	ATTRIB height=3.6
+PASS 精确变换或几何变化拦截：C	LINE removed
+PASS 部分保护清单不能验收
+PASS 重新打开后普通和内嵌内容均匹配才通过
+PASS 属性值已改但可见内嵌文字未改时拦截
+PASS 复扫属性归属不一致时拦截
+PASS 旧人工确认不能用于新数据快照
+ALL 31 PASSED
+PASS license guard runs before any source/file/CAD operation (isolated test guard)
+PASS good: explicit approval before any write
+处理 1：test.dwg
+PASS good: source bytes remain unchanged
+PASS good: reopen and protected inventory gates pass
+PASS only verified updated copy is published
+PASS good: readable result report exists
+PASS exit0: explicit approval before any write
+处理 1：test.dwg
+PASS exit0: source bytes remain unchanged
+PASS exit0: failed backend/audit never becomes success
+PASS exit0: failed work copy never enters results
+PASS exit0: readable result report exists
+PASS exit1: explicit approval before any write
+处理 1：test.dwg
+PASS exit1: source bytes remain unchanged
+PASS exit1: failed backend/audit never becomes success
+PASS exit1: failed work copy never enters results
+PASS exit1: readable result report exists
+PASS verifyExit1: explicit approval before any write
+处理 1：test.dwg
+PASS verifyExit1: source bytes remain unchanged
+PASS verifyExit1: failed backend/audit never becomes success
+PASS verifyExit1: failed work copy never enters results
+PASS verifyExit1: readable result report exists
+PASS geometry: explicit approval before any write
+处理 1：test.dwg
+PASS geometry: source bytes remain unchanged
+PASS geometry: failed backend/audit never becomes success
+PASS geometry: failed work copy never enters results
+PASS geometry: readable result report exists
+PASS partial: explicit approval before any write
+处理 1：test.dwg
+PASS partial: source bytes remain unchanged
+PASS partial: failed backend/audit never becomes success
+PASS partial: failed work copy never enters results
+PASS partial: readable result report exists
+PASS oldVisible: explicit approval before any write
+处理 1：test.dwg
+PASS oldVisible: source bytes remain unchanged
+PASS oldVisible: failed backend/audit never becomes success
+PASS oldVisible: failed work copy never enters results
+PASS oldVisible: readable result report exists
+PASS external: explicit approval before any write
+处理 1：test.dwg
+PASS external: source bytes remain unchanged
+PASS external: known unsupported native preflight is skipped with readable reason
+PASS external: unsupported file never enters results
+PASS external: readable result report exists
+PASS locked: explicit approval before any write
+处理 1：test.dwg
+PASS locked: source bytes remain unchanged
+PASS locked: known unsupported native preflight is skipped with readable reason
+PASS locked: unsupported file never enters results
+PASS locked: readable result report exists
+PASS invisible: explicit approval before any write
+处理 1：test.dwg
+PASS invisible: source bytes remain unchanged
+PASS invisible: known unsupported native preflight is skipped with readable reason
+PASS invisible: unsupported file never enters results
+PASS invisible: readable result report exists
+PASS each backend execution checks the unchanged license entry contract
+PASS 处理结果冻结本轮确认按钮，避免重复提交
+PASS 处理完成按文件明确展示通过跳过失败数量
+PASS 完成状态的四个统计按文件相加等于总数，不混用图签数量
+PASS 失败项目在列表中保持明确失败标记
+PASS 失败行不把计划文字冒充已保存文字
+PASS 点击整行可直接查看失败原因
+PASS 批量确认不能修改已结束轮次
+PASS 单行修改不能污染已发布结果
+PASS 重新扫描清除旧成果状态
+PASS 新扫描恢复为未写入预览，不沿用上轮成功提示
+PASS 完整解析全部16个生产LISP函数，顶层无意外表达式
+PASS 真实LISP编辑逻辑更新普通/内嵌文本 embedded=False chunks=False
+PASS 真实LISP列表编辑保留全部重复DXF及精确数值 embedded=False chunks=False
+PASS 真实LISP编辑逻辑更新普通/内嵌文本 embedded=True chunks=False
+PASS 真实LISP列表编辑保留全部重复DXF及精确数值 embedded=True chunks=False
+PASS 真实LISP编辑逻辑更新普通/内嵌文本 embedded=True chunks=True
+PASS 真实LISP列表编辑保留全部重复DXF及精确数值 embedded=True chunks=True
+PASS 真实LISP拒绝且不编辑：wrongowner
+PASS 真实LISP拒绝且不编辑：oldchanged
+PASS 真实LISP拒绝且不编辑：locked
+PASS 真实LISP拒绝且不编辑：invisible
+PASS 真实LISP拒绝且不编辑：rejectentmod
+PASS 真实LISP拒绝且不编辑：missing
+PASS 外部资源边界执行：normal
+PASS 外部资源边界执行：xref
+PASS 外部资源边界执行：overlay
+PASS 外部资源边界执行：image
+Stage 3 tests complete: C:\Users\UL070\Documents\Codex\2026-10-08\wo\work\cad100-directory-write-20261019\source\tmp\stage3-qa. CAD engine and DWG persistence were NOT validated by these doubles.

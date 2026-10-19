@@ -1,0 +1,44 @@
+# Visual Studio / C# build outputs
+.vs/
+bin/
+obj/
+dist/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+
+# Runtime output and diagnostics
+output/
+analysis_output/
+audit_work/
+tmp/
+log/
+logs/
+*.log
+acad.err
+plot.log
+
+# AutoCAD temporary/backup files
+*.bak
+*.sv$
+*.ac$
+*.dwl
+*.dwl2
+
+# DWG is denied by default. Only reviewed runtime assets are allowed.
+*.dwg
+!engine/assets/*.dwg
+!templates/*.dwg
+
+# Local settings and secrets
+.env
+.env.*
+*.local.json
+*.secrets.json
+
+# License server runtime / private material
+server/keys/
+server/*.db
+server/*.db-*

@@ -1,0 +1,3239 @@
+{
+  "BaselineConfirmed": true,
+  "BaselineRevision": "10497F9D67E8C256860798A4F1B6168D61BAB107DC3F51E0DE4F690EB7A0319C",
+  "Directory": [
+    {
+      "Id": "row-001",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "01",
+      "SourceHandles": "4E",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-CL-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "4E",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "图纸目录一",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-002",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "02",
+      "SourceHandles": "1D65",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-CL-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1D65",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "材料表",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-003",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "03",
+      "SourceHandles": "4F",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-NT-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "4F",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "设计说明一",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-004",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "04",
+      "SourceHandles": "78",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-NT-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "78",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "设计说明二",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-005",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "05",
+      "SourceHandles": "B3",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-NT-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "B3",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "设计说明三",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-006",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "06",
+      "SourceHandles": "50",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "50",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "总平面分区索引图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-007",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "07",
+      "SourceHandles": "B7",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "B7",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "总平面改造示意图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-008",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "08",
+      "SourceHandles": "20F",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "20F",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "铺装物料平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-009",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "09",
+      "SourceHandles": "21C",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-004",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "21C",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "灯具布置平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-010",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "09",
+      "SourceHandles": "1745",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-005",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1745",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "室外家具及标识标牌布置平面图 ",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-011",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "10",
+      "SourceHandles": "17CB",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-006",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "17CB",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "施工围挡布置平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-012",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "11",
+      "SourceHandles": "9C",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S1-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "9C",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区一（客家驿站区）铺装及索引平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-013",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "12",
+      "SourceHandles": "9D",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S1-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "9D",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区一（客家驿站区）尺寸坐标定位平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-014",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "13",
+      "SourceHandles": "9E",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S1-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "9E",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区一（客家驿站区）竖向设计平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-015",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "14",
+      "SourceHandles": "9F",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S1-004",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "9F",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区一（客家驿站区）灯具平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-016",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "15",
+      "SourceHandles": "BC",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S1-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "BC",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "半月池水景详图一",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-017",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "16",
+      "SourceHandles": "BE",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S1-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "BE",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "半月池水景详图二",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-018",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "17",
+      "SourceHandles": "CD",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S2-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "CD",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区二(溪谷剧场区）铺装及索引平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-019",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "18",
+      "SourceHandles": "CE",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S2-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "CE",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区二(溪谷剧场区）尺寸坐标定位平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-020",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "19",
+      "SourceHandles": "CF",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S2-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "CF",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区二(溪谷剧场区）竖向设计平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-021",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "20",
+      "SourceHandles": "D0",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S2-004",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "D0",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区二(溪谷剧场区）灯具平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-022",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "21",
+      "SourceHandles": "143",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S2-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "143",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "生态旱溪详图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-023",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "22",
+      "SourceHandles": "18D",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S3-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "18D",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区三(湿生科普区）铺装及索引平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-024",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "23",
+      "SourceHandles": "18E",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S3-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "18E",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区三(湿生科普区）尺寸坐标定位平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-025",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "24",
+      "SourceHandles": "18F",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S3-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "18F",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区三(湿生科普区）竖向设计平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-026",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "25",
+      "SourceHandles": "190",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S3-004",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "190",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区三(湿生科普区）灯具平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-027",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "26",
+      "SourceHandles": "19C",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S3-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "19C",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "涟漪生态园栈道详图一",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-028",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "27",
+      "SourceHandles": "19D",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S3-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "19D",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "涟漪生态园栈道详图二",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-029",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "28",
+      "SourceHandles": "19E",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S3-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "19E",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "涟漪生态园栈道详图三",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-030",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "29",
+      "SourceHandles": "19F",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S3-004",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "19F",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "涟漪生态园栈道详图四",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-031",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "30",
+      "SourceHandles": "1DE0",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S4-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1DE0",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区四A(花园林带科普区）铺装及索引平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-032",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "31",
+      "SourceHandles": "1DE1",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S4-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1DE1",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区四A(花园林带科普区）尺寸坐标定位平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-033",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "32",
+      "SourceHandles": "1DE2",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S4-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1DE2",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区四A(花园林带科普区）竖向设计平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-034",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "33",
+      "SourceHandles": "1DE3",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S4-004",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1DE3",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区四A(花园林带科普区）灯具平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-035",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "34",
+      "SourceHandles": "175A",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S5-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "175A",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区四B(花园林带科普区）铺装及索引平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-036",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "35",
+      "SourceHandles": "175B",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S5-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "175B",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区四B(花园林带科普区）尺寸坐标定位平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-037",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "36",
+      "SourceHandles": "175C",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S5-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "175C",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区四B(花园林带科普区）竖向设计平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-038",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "37",
+      "SourceHandles": "175D",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S5-004",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "175D",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区四B(花园林带科普区）灯具平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-039",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "38",
+      "SourceHandles": "1B1",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S4-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1B1",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "科普花园详图一",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-040",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "39",
+      "SourceHandles": "1B2",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S4-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1B2",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "科普花园详图二",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-041",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "40",
+      "SourceHandles": "1B9",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S6-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1B9",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区五（客家田园科普区）铺装及索引平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-042",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "41",
+      "SourceHandles": "1BA",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S6-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1BA",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区五（客家田园科普区）尺寸坐标定位平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-043",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "42",
+      "SourceHandles": "1BB8",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S6-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1BB8",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区五（客家田园科普区）竖向设计平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-044",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "43",
+      "SourceHandles": "1BBD",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-S6-004",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1BBD",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "分区五（客家田园科普区）灯具平面图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-045",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "44",
+      "SourceHandles": "1BD",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1BD",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "地面构造做法详图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-046",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "45",
+      "SourceHandles": "1BE",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1BE",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "标准园路大样详图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-047",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "46",
+      "SourceHandles": "1C9",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-003.1",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1C9",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "铺装装饰井盖详图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-048",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "47",
+      "SourceHandles": "1CA",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-003.2",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1CA",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "绿化装饰井盖详图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-049",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "48",
+      "SourceHandles": "1B50",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-004",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1B50",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "坐凳样图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-050",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "49",
+      "SourceHandles": "1BF",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-005",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1BF",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "雨水口大样图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-051",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "50",
+      "SourceHandles": "1C0",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-006",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1C0",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "浅草沟样图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-052",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "51",
+      "SourceHandles": "1C1",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-007",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1C1",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "配电箱装饰详图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-053",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "52",
+      "SourceHandles": "1C2",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-008",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1C2",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "灯具大样图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-054",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "53",
+      "SourceHandles": "1C3",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-009",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1C3",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "车挡详图",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-055",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "54",
+      "SourceHandles": "1F5",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SIGN-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1F5",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "标识标牌详图一",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-056",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "55",
+      "SourceHandles": "1F6",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SIGN-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1F6",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "标识标牌详图二",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    },
+    {
+      "Id": "row-057",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "Sequence": "56",
+      "SourceHandles": "1F7",
+      "Fields": {
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SIGN-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1F7",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "标识标牌详图三",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "日期": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "NoColumn",
+          "Writable": false
+        }
+      }
+    }
+  ],
+  "Titles": [
+    {
+      "Id": "title-01",
+      "File": "L-P-CL-001目录_t9.dwg",
+      "Layout": "Model",
+      "InsertHandle": "17CE",
+      "SourceRevision": "10497F9D67E8C256860798A4F1B6168D61BAB107DC3F51E0DE4F690EB7A0319C",
+      "GeometrySnapshot": "{\"图号字高\": 2.399999999999999, \"图名字高\": 3.5, \"图签插入点\": [7611.100002204351, 1043.500000715661, 0.0], \"缩放\": [1.0, 1.0, 1.0], \"旋转\": 0.0}",
+      "Fields": {
+        "日期": {
+          "State": "Value",
+          "OrdinaryRaw": "2025年11月",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "Value",
+          "OrdinaryRaw": "景观初",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "单位": {
+          "State": "Value",
+          "OrdinaryRaw": "mm",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "比例": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-CL-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1837",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "图纸目录",
+          "EmbeddedPresent": true,
+          "EmbeddedRaw": "\\W0.8000;图纸目录",
+          "AttributeHandle": "183D",
+          "Writable": true
+        }
+      }
+    },
+    {
+      "Id": "title-02",
+      "File": "1标准园路大样样图_t9.dwg",
+      "Layout": "布局",
+      "InsertHandle": "765E",
+      "SourceRevision": "E240D7D9BDC81F4E5E838E8D743E94EE7151F2949E7DA678BE207183D136C78D",
+      "GeometrySnapshot": "{\"图号字高\": 2.399999999999999, \"图名字高\": 3.5, \"图签插入点\": [1522.035316484728, 50.88918406385369, 0.0], \"缩放\": [1.0, 1.0, 1.0], \"旋转\": 0.0}",
+      "Fields": {
+        "日期": {
+          "State": "Value",
+          "OrdinaryRaw": "2025年11月",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "Value",
+          "OrdinaryRaw": "景观初",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "单位": {
+          "State": "Value",
+          "OrdinaryRaw": "mm",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "比例": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-004",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "765F",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "标准园路大样详图",
+          "EmbeddedPresent": true,
+          "EmbeddedRaw": "\\W0.8000;标准园路大样详图",
+          "AttributeHandle": "7665",
+          "Writable": true
+        }
+      }
+    },
+    {
+      "Id": "title-03",
+      "File": "1材料表_t9.dwg",
+      "Layout": "Layout1",
+      "InsertHandle": "28CD",
+      "SourceRevision": "B33B4491531999AB16922B263F7799B9517EA408CE91B7D8CE05F6665BFC7A69",
+      "GeometrySnapshot": "{\"图号字高\": 2.399999999999999, \"图名字高\": 3.5, \"图签插入点\": [583.9999999999999, 10.0, 0.0], \"缩放\": [1.0, 1.0, 1.0], \"旋转\": 0.0}",
+      "Fields": {
+        "日期": {
+          "State": "Value",
+          "OrdinaryRaw": "2025年11月",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "Value",
+          "OrdinaryRaw": "景观初",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "单位": {
+          "State": "Value",
+          "OrdinaryRaw": "mm",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "比例": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-CL-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "28CE",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Empty",
+          "OrdinaryRaw": "材料表",
+          "EmbeddedPresent": true,
+          "EmbeddedRaw": "\\W0.8000;",
+          "AttributeHandle": "28D4",
+          "Writable": true
+        }
+      }
+    },
+    {
+      "Id": "title-04",
+      "File": "1铺装物料平面图_t9.dwg",
+      "Layout": "Layout1",
+      "InsertHandle": "1AE7",
+      "SourceRevision": "FEDFD3356C38229310DFA872EC1FBA4C45251768B87B734D0E436F29422B0EDE",
+      "GeometrySnapshot": "{\"图号字高\": 2.399999999999999, \"图名字高\": 2.399999999999999, \"图签插入点\": [-139.8220453574249, -1266.369625533822, 0.0], \"缩放\": [1.0, 1.0, 1.0], \"旋转\": 0.0}",
+      "Fields": {
+        "日期": {
+          "State": "Value",
+          "OrdinaryRaw": "2025年11月",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "Value",
+          "OrdinaryRaw": "景观初",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "单位": {
+          "State": "Value",
+          "OrdinaryRaw": "mm",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "比例": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-003",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1B58",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "铺装物料平面图",
+          "EmbeddedPresent": true,
+          "EmbeddedRaw": "\\W0.8000;铺装物料剖面图",
+          "AttributeHandle": "1B5E",
+          "Writable": true
+        }
+      }
+    },
+    {
+      "Id": "title-05",
+      "File": "1生态旱溪详图_t9.dwg",
+      "Layout": "Layout1",
+      "InsertHandle": "12EBC",
+      "SourceRevision": "609469B8E69D34C702BA7733CE1AD7CB0A5F2FF9790C8FB93F1344C39F78D555",
+      "GeometrySnapshot": "{\"图号字高\": 2.399999999999999, \"图名字高\": 3.0, \"图签插入点\": [1195.174906659812, 910.7994989875059, 0.0], \"缩放\": [1.0, 1.0, 1.0], \"旋转\": 0.0}",
+      "Fields": {
+        "日期": {
+          "State": "Value",
+          "OrdinaryRaw": "2025年11月",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "Value",
+          "OrdinaryRaw": "景观初",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "单位": {
+          "State": "Value",
+          "OrdinaryRaw": "mm",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "比例": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图号": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "12EBD",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "生态旱溪详图",
+          "EmbeddedPresent": true,
+          "EmbeddedRaw": "\\W0.8000;生态旱溪详图",
+          "AttributeHandle": "12EC3",
+          "Writable": true
+        }
+      }
+    },
+    {
+      "Id": "title-06",
+      "File": "L-P-DT-001 地面构造做法详图_t9.dwg",
+      "Layout": "布局",
+      "InsertHandle": "765E",
+      "SourceRevision": "0E0C11C7F0D7A8D5EA6B818FD80AFF88521C8DF032490373DDC1C8AEA7C08550",
+      "GeometrySnapshot": "{\"图号字高\": 2.399999999999999, \"图名字高\": 3.5, \"图签插入点\": [1522.035316484728, 50.88918406385369, 0.0], \"缩放\": [1.0, 1.0, 1.0], \"旋转\": 0.0}",
+      "Fields": {
+        "日期": {
+          "State": "Value",
+          "OrdinaryRaw": "2025年11月",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "Value",
+          "OrdinaryRaw": "景观初",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "单位": {
+          "State": "Value",
+          "OrdinaryRaw": "mm",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "比例": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "765F",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "地面构造做法详图",
+          "EmbeddedPresent": true,
+          "EmbeddedRaw": "\\W0.8000;地面构造做法详图",
+          "AttributeHandle": "7665",
+          "Writable": true
+        }
+      }
+    },
+    {
+      "Id": "title-07",
+      "File": "L-P-DT-005 雨水口大样图_t9.dwg",
+      "Layout": "布局",
+      "InsertHandle": "765E",
+      "SourceRevision": "CFBE191E1E2E31D885230074EA5C763914F496C4BC58B9576BE42AA05021BD66",
+      "GeometrySnapshot": "{\"图号字高\": 2.399999999999999, \"图名字高\": 3.5, \"图签插入点\": [1522.035316484728, 50.88918406385369, 0.0], \"缩放\": [1.0, 1.0, 1.0], \"旋转\": 0.0}",
+      "Fields": {
+        "日期": {
+          "State": "Value",
+          "OrdinaryRaw": "2025年11月",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "Value",
+          "OrdinaryRaw": "景观初",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "单位": {
+          "State": "Value",
+          "OrdinaryRaw": "mm",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "比例": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-DT-005",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "765F",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "雨水口大样图",
+          "EmbeddedPresent": true,
+          "EmbeddedRaw": "\\W0.8000;雨水口大样图",
+          "AttributeHandle": "7665",
+          "Writable": true
+        }
+      }
+    },
+    {
+      "Id": "title-08",
+      "File": "L-P-FP-S1-001~002 半月池水景详图_t9.dwg",
+      "Layout": "Layout1",
+      "InsertHandle": "12EBC",
+      "SourceRevision": "457FB09DB6FEE6A34A927E21B4BC42004BE25D6AACCEA92F401A7971167B0362",
+      "GeometrySnapshot": "{\"图号字高\": 2.399999999999999, \"图名字高\": 3.0, \"图签插入点\": [1195.174906659812, 910.7994989875059, 0.0], \"缩放\": [1.0, 1.0, 1.0], \"旋转\": 0.0}",
+      "Fields": {
+        "日期": {
+          "State": "Value",
+          "OrdinaryRaw": "2025年11月",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "Value",
+          "OrdinaryRaw": "景观初",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "单位": {
+          "State": "Value",
+          "OrdinaryRaw": "mm",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "比例": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S1-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "12EBD",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "半月池水景详图一",
+          "EmbeddedPresent": true,
+          "EmbeddedRaw": "\\W0.8000;半月池水景详图一",
+          "AttributeHandle": "12EC3",
+          "Writable": true
+        }
+      }
+    },
+    {
+      "Id": "title-09",
+      "File": "L-P-FP-S1-001~002 半月池水景详图_t9.dwg",
+      "Layout": "Layout1",
+      "InsertHandle": "1427B",
+      "SourceRevision": "457FB09DB6FEE6A34A927E21B4BC42004BE25D6AACCEA92F401A7971167B0362",
+      "GeometrySnapshot": "{\"图号字高\": 2.399999999999999, \"图名字高\": 3.0, \"图签插入点\": [1837.711709273542, 910.7994989875059, 0.0], \"缩放\": [1.0, 1.0, 1.0], \"旋转\": 0.0}",
+      "Fields": {
+        "日期": {
+          "State": "Value",
+          "OrdinaryRaw": "2025年11月",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "Value",
+          "OrdinaryRaw": "景观初",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "单位": {
+          "State": "Value",
+          "OrdinaryRaw": "mm",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "比例": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-FP-S1-002",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "1427C",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "半月池水景详图二",
+          "EmbeddedPresent": true,
+          "EmbeddedRaw": "\\W0.8000;半月池水景详图二",
+          "AttributeHandle": "14282",
+          "Writable": true
+        }
+      }
+    },
+    {
+      "Id": "title-10",
+      "File": "L-P-SP-001 总平面分区索引图_t9.dwg",
+      "Layout": "Layout1",
+      "InsertHandle": "12896",
+      "SourceRevision": "CCA1FE09FCD3952A4894FD651E57E82E39F1D081D61F3F4EB1C0DA5D3B816F2E",
+      "GeometrySnapshot": "{\"图号字高\": 2.399999999999999, \"图名字高\": 2.399999999999999, \"图签插入点\": [-130.7703985304224, -188.1475894922787, 0.0], \"缩放\": [1.0, 1.0, 1.0], \"旋转\": 0.0}",
+      "Fields": {
+        "日期": {
+          "State": "Value",
+          "OrdinaryRaw": "2025年11月",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "版本号": {
+          "State": "Value",
+          "OrdinaryRaw": "0",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图别": {
+          "State": "Value",
+          "OrdinaryRaw": "景观初",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "单位": {
+          "State": "Value",
+          "OrdinaryRaw": "mm",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "比例": {
+          "State": "Empty",
+          "OrdinaryRaw": "",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": null,
+          "Writable": true
+        },
+        "图号": {
+          "State": "Value",
+          "OrdinaryRaw": "L-P-SP-001",
+          "EmbeddedPresent": false,
+          "EmbeddedRaw": null,
+          "AttributeHandle": "12907",
+          "Writable": true
+        },
+        "图名": {
+          "State": "Value",
+          "OrdinaryRaw": "总平面索引图",
+          "EmbeddedPresent": true,
+          "EmbeddedRaw": "\\W0.8000;总平面索引图",
+          "AttributeHandle": "1290D",
+          "Writable": true
+        }
+      }
+    }
+  ],
+  "OptionalFields": [
+    "日期",
+    "版本号",
+    "图别"
+  ],
+  "ManualBindings": {}
+}

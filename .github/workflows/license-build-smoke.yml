@@ -1,0 +1,49 @@
+name: License build smoke test
+
+on:
+  push:
+    branches:
+      - feature/license-system-v2
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare production public key
+        shell: powershell
+        run: |
+          New-Item -ItemType Directory -Path .\tmp\release-key -Force | Out-Null
+          $publicKey = @'
+          <RSAKeyValue><Modulus>yfljySWdsVd+uS1gjvs3QLfobONmF0vtF5umyUzlyGhSSqk4ZcC4bwVn2A2wGtnVknX6/XvbNRU4/+1L8VA2861YzOHJXhAh5LTqcjO6hC19Fev5Um18otqAEOwRYUmJmk1ZHtEL1o9np4UQvL9fb7AFiy08U6e2W4ctMJCR4dynNih0HG8AisOhnm1tq0TH7fVMMW3dgbTG3djbQRBQQYqtcz2VBF1NTmBj9N5/Ccug5RCksRc7fUExB+NlfmYd4Evs5vCxthZUoR72Or9FOgHEdYPPO4PNslfo6Sj9unZNEMhiVB+x6FnE1r4sVFfjTa2ZKzNoUh0YE7wlIfYK3dGkQcOK6QIKrcAb6IdQSvNAjAmTYG1Klnwx4vTIP1kxbUXElNRQAjDPHy6VD7654hew5F04XFkJhfShnViGMVOlFzg1UK5r0nC8uo/Zcq9Rd6t5DpuoMKEMGe5DYx70EyE7GnR2CtUFOM0kI6FA6B5Box0nug3UQ5MgMsXyYhdz</Modulus><Exponent>AQAB</Exponent></RSAKeyValue>
+          '@
+          [IO.File]::WriteAllText((Join-Path $PWD 'tmp\release-key\public_key.xml'), $publicKey.Trim(), (New-Object System.Text.UTF8Encoding($false)))
+
+      - name: Build production authorized application
+        shell: powershell
+        run: >-
+          .\build.ps1
+          -LicenseApiBaseUrl "https://auth.viewonly.cloud"
+          -LicensePublicKeyPath ".\tmp\release-key\public_key.xml"
+
+      - name: Verify outputs
+        shell: powershell
+        run: |
+          if (-not (Test-Path .\dist\CAD-100\CAD-100.exe)) { throw "CAD-100.exe missing" }
+          if (-not (Test-Path .\dist\CAD-100\CadProcessingCore.dll)) { throw "CadProcessingCore.dll missing" }
+          if (-not (Test-Path .\dist\CAD-100\CAD-100.exe.config)) { throw "CAD-100.exe.config missing" }
+          Write-Host "Production authorized build passed."
+
+      - name: Upload ready-to-use package
+        if: github.event_name == 'push'
+        uses: actions/upload-artifact@v4
+        with:
+          name: CAD-100-authorized
+          path: .\dist\CAD-100\
+          if-no-files-found: error
+          retention-days: 14

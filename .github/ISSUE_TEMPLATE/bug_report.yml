@@ -1,0 +1,39 @@
+name: CAD 处理问题
+description: 报告图框、图签、字段识别或替换异常
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: input
+    id: version
+    attributes:
+      label: 软件版本
+      placeholder: v1.9.15
+    validations:
+      required: true
+  - type: input
+    id: autocad
+    attributes:
+      label: AutoCAD / Core 版本
+      placeholder: AutoCAD 2024
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际结果
+      description: 请写明源文件名、模型/布局名称和异常内容。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: reports
+    attributes:
+      label: 报告与截图
+      description: 可粘贴问题清单、验收报告或截图。不要上传未脱敏项目图纸。
+

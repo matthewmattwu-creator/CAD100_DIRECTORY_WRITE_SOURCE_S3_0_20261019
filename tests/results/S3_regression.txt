@@ -1,0 +1,178 @@
+PASS clear personnel N审定_T5_H3
+PASS personnel clear preserves global information
+PASS personnel clear preserves per-drawing names
+PASS personnel clear preserves signature selection
+ALL CHECKS PASSED; no CAD processing or drawing writes were performed.
+PASS personnel uses plain summary
+PASS personnel identifies readable roles
+PASS personnel technical tags hidden from plain explanation
+PASS wrong name is not described as invisible
+PASS small scale classified without changing acceptance
+PASS precise values reserved for diagnostics
+PASS large scale is not called tiny
+PASS multiple causes retained
+PASS field mismatch does not assert a proven formatting cause
+PASS unknown failure is not given an invented cause
+PASS advice present; no automatic approval
+PASS advice present; no automatic approval
+PASS advice present; no automatic approval
+PASS advice present; no automatic approval
+PASS detail layout has independent explanation, diagnostics and actions
+PASS diagnostics collapsed by default
+PASS complete raw diagnostic retained
+PASS primary detail text is readable
+PASS copy explanation, copy diagnostic and close available
+PASS detail layout has independent explanation, diagnostics and actions
+PASS diagnostics collapsed by default
+PASS complete raw diagnostic retained
+PASS primary detail text is readable
+PASS copy explanation, copy diagnostic and close available
+PASS all four failures stay red
+PASS table summary changed; raw diagnostic preserved
+ALL PLAIN FAILURE CHECKS PASSED; no CAD processing, drawing writes or clipboard changes.
+Tests: 62, passed: 62, failed: 0, assertions: 86
+{"id":"N01","name":"真实目录57行、图签10个，目录文件和一文件两图签均保留","rules":"R08/R09","origin":"native-backed","status":"PASS","assertions":3}
+{"id":"N02","name":"真实标准园路号名冲突，保留两个候选且无自动修改","rules":"R28","origin":"native-backed","status":"PASS","assertions":3}
+{"id":"N03","name":"真实材料表按空显示正文核对，普通值不掩盖缺字","rules":"R20/R26","origin":"native-backed","status":"PASS","assertions":3}
+{"id":"N04","name":"真实铺装剖面/平面错误与两种属性表示差异同时保留","rules":"R20/R24/R39","origin":"native-backed","status":"PASS","assertions":2}
+{"id":"N05","name":"真实生态旱溪只产生补号候选，不执行写入","rules":"R27","origin":"native-backed","status":"PASS","assertions":2}
+{"id":"N06","name":"真实参照4项一致，目录自身和总平面2项仍显示差异","rules":"R24","origin":"native-backed","status":"PASS","assertions":3}
+{"id":"N07","name":"真实空日期保留，缺少图别列不生成覆盖建议","rules":"R13/R15/R16","origin":"native-backed","status":"PASS","assertions":2}
+{"id":"N08","name":"真实重复序号09只提示序号重复，不报重复图号","rules":"R31/R33","origin":"native-backed","status":"PASS","assertions":2}
+{"id":"N09","name":"真实冲突未确认时区分46项未找到与2项目录行待关联","rules":"R28/R34","origin":"native-backed","status":"PASS","assertions":1}
+{"id":"N10","name":"人工绑定真实标准园路后，10行关联、47行本范围未找到","rules":"R28/R34","origin":"native-backed","status":"PASS","assertions":2}
+{"id":"S01","name":"完全一致不生成修改","rules":"R25","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S02","name":"首尾普通空格忽略，输入原文不变","rules":"R22","origin":"synthetic","status":"PASS","assertions":2}
+{"id":"S03","name":"内部空格不忽略","rules":"R22","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S04","name":"大小写不忽略","rules":"R22","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S05","name":"前导零不删除","rules":"R22","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S06","name":"点号后缀两个编号保持独立","rules":"R22","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S07","name":"少字不按模糊相似判相同","rules":"R24","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S08","name":"换行保留且单独提示","rules":"R23","origin":"synthetic","status":"PASS","assertions":2}
+{"id":"S09","name":"已支持宽度控制只影响比较表示，不改变原文","rules":"R19/R21","origin":"synthetic","status":"PASS","assertions":2}
+{"id":"S10","name":"未知格式阻止生成可确认计划","rules":"R21","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S11","name":"嵌入正文确实为空时不回退旧普通值","rules":"R20","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S12","name":"嵌入正文无法读取与空白分开","rules":"R18/R20","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S13","name":"显示正确但普通缓存错误仍保留问题及同步表示建议","rules":"R20","origin":"synthetic","status":"PASS","assertions":2}
+{"id":"S14","name":"没有图号属性时禁止自动新增","rules":"R17","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S15","name":"字段读取失败不判一致","rules":"R18","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S16","name":"不可写字段不能进入批量确认","rules":"R17","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S17","name":"空日期基准不清空原日期，并提示","rules":"R16","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S18","name":"缺少目录列不判图签错误","rules":"R15","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S19","name":"列未映射不是空基准","rules":"R44","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S20","name":"未启用的可选日期不同不生成修改","rules":"R13","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S21","name":"已启用且有明确基准的版本不同需提示","rules":"R13","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S22","name":"唯一图名产生错误图号修正候选","rules":"R27","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S23","name":"号名冲突禁止批量确认","rules":"R28","origin":"synthetic","status":"PASS","assertions":2}
+{"id":"S24","name":"目录同名产生多个候选，不取第一条","rules":"R29","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S25","name":"目录重复图号阻止相关确认","rules":"R31","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S26","name":"图签重复图号单独报告","rules":"R32","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S27","name":"两个空号图签争用同一目录行不批量补同号","rules":"R49","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S28","name":"同文件两个图签独立核对","rules":"R09","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S29","name":"号名都空，不用文件名或顺序补号","rules":"R30/R51","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S30","name":"目录基准未确认时拒绝执行规则","rules":"R07","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S31","name":"扫描失败不拖累其他文件，也不伪装通过","rules":"R36","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S32","name":"不允许将人员等范围外字段混入校对","rules":"R14","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S33","name":"20张空号中18唯一候选，2争用项保持待处理","rules":"R49/R50","origin":"synthetic","status":"PASS","assertions":2}
+{"id":"S34","name":"批量确认18项只产生补号预览，原几何原样保留","rules":"R50/R51/R52","origin":"synthetic","status":"PASS","assertions":3}
+{"id":"S35","name":"混合选择含冲突项时整次确认拒绝，不部分确认","rules":"R50","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S36","name":"只选择两项时计划仅含这两项","rules":"R50/R52","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S37","name":"保留原值和暂不处理均不产生计划，差异不消失","rules":"R41","origin":"synthetic","status":"PASS","assertions":3}
+{"id":"S38","name":"确认后baseline变化使旧确认失效","rules":"R52","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S39","name":"确认后directory变化使旧确认失效","rules":"R52","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S40","name":"确认后title变化使旧确认失效","rules":"R52","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S41","name":"确认后geometry变化使旧确认失效","rules":"R52","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S42","name":"确认后membership变化使旧确认失效","rules":"R52","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S43","name":"人工绑定冲突后只建议修改被选目录所需字段","rules":"R28/R41","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S44","name":"目标目录号为空时不生成空号覆盖","rules":"R16/R49","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S45","name":"重复内部标识拒绝，防止同文件对象覆盖","rules":"R43","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S46","name":"伪造或复用不确定项确认不能通过复核","rules":"R28/R52","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S47","name":"空目录不能作为已准备好的核对基准","rules":"R06/R07","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S48","name":"批量补号不顺带修改已启用但未确认的版本差异","rules":"R50/R51/R52","origin":"synthetic","status":"PASS","assertions":2}
+{"id":"S49","name":"未知人工决定不能被默认为跳过","rules":"R41","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S50","name":"缺失字段级确认不能生成计划","rules":"R52","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S51","name":"人工绑定不存在目录行时明确拒绝","rules":"R29/R43","origin":"synthetic","status":"PASS","assertions":1}
+{"id":"S52","name":"重复选择不能生成多份相同确认","rules":"R50","origin":"synthetic","status":"PASS","assertions":1}
+{"passed":25,"failed":0}
+PASS SCR remains ASCII regardless of Chinese install/output paths
+PASS native DWG prefix supplies both Unicode paths; none serialized in SCR
+PASS no absolute path injection; readonly-copy quit confirms discard
+PASS UTF8-vs-GBK SCR decoding yields identical commands
+PASS UTF8 entity content round-trips under Chinese and spaced paths
+PASS CP936 entity content round-trips under Chinese and spaced paths
+PASS SYSTEM entity content round-trips under Chinese and spaced paths
+extracted rows=57
+PASS header-and-grid extraction returns 57 directory rows
+PASS 57 distinct numbers including dot suffixes
+PASS all 57 titles independently match native evidence
+PASS extracts exactly 10 actual title blocks, excluding detail labels
+PASS four matching title blocks
+PASS standard-road number/name conflict preserved
+PASS two embedded/ordinary discrepancies preserved
+PASS one empty-number ecological-stream candidate
+PASS translated and scaled table still extracts; no fixed sample coordinates
+PASS unsupported directory rejected instead of guessed
+PASS partial native export rejected
+PASS copy DBMOD change is surfaced, not reset or hidden
+PASS separate directory tables are rejected instead of silently merged
+Adapter tests passed: 20
+PASS new draft explicitly uses manual-review schema
+PASS scan never silently approves a modification
+PASS initial six differences all await review, four matching rows ready
+PASS yellow status count equals pending metric
+PASS confirmation buttons occupy far-right former details position
+PASS left checkbox column removed
+PASS row text stays white; only the blocked-state trigger may tint background
+PASS only result text column has per-row color binding
+PASS unconfirmed row still shows useful output proposal
+PASS matching row needs no manual click
+PASS only one blocked title receives whole-row yellow background
+PASS ordinary unconfirmed proposals keep result-only coloring
+PASS attention trigger changes background only, never row text
+PASS selected blocked row retains yellow highlight instead of blue masking it
+PASS automatic yellow check starts with no row selected
+PASS unselected blocked row actually renders batch amber immediately after scan
+PASS unselected ordinary difference actually keeps dark background
+PASS no local grid background overrides row triggers
+PASS automatic amber row keeps readable white non-status text
+PASS conflict cannot be approved with one click
+PASS single-row confirmation admits exactly one plan and updates counts
+PASS confirmed row no longer uses pending yellow
+PASS confirmation preserves difference instead of claiming content already matches
+PASS click confirmed again revokes approval and removes plan
+PASS one bulk action confirms only five clear rows
+PASS bulk confirmation never guesses unresolved conflict
+PASS after bulk, exactly one yellow pending status remains
+PASS candidate preview alone does not approve output
+PASS binding resolves association but still requires human approval
+PASS whole-row yellow clears after association blocker resolved, even before confirmation
+PASS after all approvals exact six plans comprise four names and two numbers
+PASS top metrics reflect completed human review, not fake DWG output
+PASS batch submit uses only reviewed eligible rows
+PASS human review is distinct from final batch-submit record
+PASS manual approvals persist through JSON roundtrip
+PASS legacy auto-selected drafts cannot restore as manual approvals
+PASS source snapshot change invalidates prior manual review
+PASS explicit keep counts as reviewed without modification
+PASS bulk confirm preserves explicit keep decision
+PASS explicit skip is reviewed but never a write plan
+PASS bulk confirm preserves skip decision
+PASS switching pages preserves approval and plans
+PASS read failure counted separately from five yellow pending items
+PASS failed row cannot be approved as writeable
+PASS bulk confirms safe rows while failure remains red
+PASS read failure does not inherit a whole-row text color
+PASS pending screenshot retains real populated scan results
+Confirmation checks passed: 47
+PASS original point, scales and rotation preserved 150.00001811/150.00001811
+PASS original point, scales and rotation preserved 49.99995061/49.99995061
+PASS original point, scales and rotation preserved -2.25/3.125
+PASS native INSERT defaults do not inherit frame scale
+PASS missing native title keeps explicit existing fallback
+PASS different next sheet has independent values
+PASS new title insert consumes original title transform
+PASS frame insert retains original frame transform
+PASS native title does not consume frame X scale
+PASS new signatures use title transform
+ALL 10 TITLE TRANSFORM CHECKS PASSED; data and source call checks only, no native CAD writes.
+Tests complete. Results: C:\Users\UL070\Documents\Codex\2026-10-08\wo\work\cad100-directory-write-20261019\source\tmp\unified-qa. No live CAD scan or DWG processing executed.
